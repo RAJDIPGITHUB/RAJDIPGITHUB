@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAJDIPGITHUB
+- 👋 Hi, I’m Rajdip Mondal.
 - 👀 I’m interested in Full stack web Development.
 - 🌱 I’m currently learning B.Tech in Computer Science and Engineering.
 - 💞️ I’m looking to Software Engineer role job.
